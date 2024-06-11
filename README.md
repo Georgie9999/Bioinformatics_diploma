@@ -7,7 +7,7 @@ https://www.kaggle.com/competitions/open-problems-single-cell-perturbations
 https://colab.research.google.com/drive/1kuZm4_W3N8g781L2-pOZTDHXC5NgSw2b?usp=sharing - обучение модели
 
 ## Ссылка на презентацию
-https://docs.google.com/presentation/d/1Lqmt3THkXbjijAEY5bpNuPv2c5TuQnv7VfwAy2bhHY0/edit#slide=id.p10
+https://docs.google.com/presentation/d/1cY-To6IBcewN7zLOMJVEbR4wfR6ROPpb_KAax6bzs6M/edit?usp=sharing
 
 
 ### Описание задачи с Kaggle:
